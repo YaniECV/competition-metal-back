@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'competition-metal-back',
 
-  projectId: 'fls4miuh',
+  projectId: 'cjiuyalr',
   dataset: 'production',
 
   plugins: [structureTool(), visionTool()],
